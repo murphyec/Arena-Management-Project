@@ -1,0 +1,4 @@
+1000 Jon Snow Security 30000
+1010 Frank Brookes Janitor 20000
+2001 Vladmir Kramnik Strategist 100000
+1005 Thomas Kindly Clerk 15000

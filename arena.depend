@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1543347582 source:c:\temp\pr220127\arena\ticket.cpp
+	"Ticket.h"
+
+1543776364 c:\temp\pr220127\arena\ticket.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543780315 source:c:\temp\pr220127\arena\main.cpp
+	<iostream>
+	"ManagementSystem.h"
+
+1543780249 c:\temp\pr220127\arena\managementsystem.h
+	"Ticket.h"
+	"Schedule.h"
+	"Parking.h"
+	"Concession.h"
+	"Staff.h"
+	<list>
+
+1543349406 c:\temp\pr220127\arena\manageable.h
+	<ostream>
+	<istream>
+
+1543779737 source:c:\temp\pr220127\arena\managementsystem.cpp
+	"ManagementSystem.h"
+	<fstream>
+	<iostream>
+
+1543349804 source:c:\temp\pr220127\arena\date.cpp
+	"Date.h"
+
+1543776723 c:\temp\pr220127\arena\date.h
+	<string>
+	<istream>
+	<ostream>
+
+1543349109 source:c:\temp\pr220127\arena\schedule.cpp
+	"Schedule.h"
+	<iostream>
+
+1543776749 c:\temp\pr220127\arena\schedule.h
+	"Manageable.h"
+	<string>
+	"Date.h"
+
+1543776693 c:\temp\pr220127\arena\parking.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543353251 source:c:\temp\pr220127\arena\parking.cpp
+	"Parking.h"
+
+1543360997 source:c:\temp\pr220127\arena\staff.cpp
+	"Staff.h"
+	<iostream>
+
+1543776756 c:\temp\pr220127\arena\staff.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543779615 source:c:\temp\pr220127\arena\concession.cpp
+	"Concession.h"
+
+1543779585 c:\temp\pr220127\arena\concession.h
+	<string>
+	"Manageable.h"
+
+1543378604 source:c:\users\emurp010\desktop\semesterproject_emurphy\date.cpp
+	"Date.h"
+
+1543805522 c:\users\emurp010\desktop\semesterproject_emurphy\date.h
+	<string>
+	<istream>
+	<ostream>
+
+1543382050 source:c:\users\emurp010\desktop\semesterproject_emurphy\parking.cpp
+	"Parking.h"
+
+1543805492 c:\users\emurp010\desktop\semesterproject_emurphy\parking.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543378206 c:\users\emurp010\desktop\semesterproject_emurphy\manageable.h
+	<ostream>
+	<istream>
+
+1543377908 source:c:\users\emurp010\desktop\semesterproject_emurphy\schedule.cpp
+	"Schedule.h"
+	<iostream>
+
+1543805548 c:\users\emurp010\desktop\semesterproject_emurphy\schedule.h
+	"Manageable.h"
+	<string>
+	"Date.h"
+
+1543376382 source:c:\users\emurp010\desktop\semesterproject_emurphy\ticket.cpp
+	"Ticket.h"
+
+1543805164 c:\users\emurp010\desktop\semesterproject_emurphy\ticket.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543808414 source:c:\users\emurp010\desktop\semesterproject_emurphy\concession.cpp
+	"Concession.h"
+
+1543808384 c:\users\emurp010\desktop\semesterproject_emurphy\concession.h
+	<string>
+	"Manageable.h"
+
+1543809114 source:c:\users\emurp010\desktop\semesterproject_emurphy\main.cpp
+	<iostream>
+	"ManagementSystem.h"
+
+1543809048 c:\users\emurp010\desktop\semesterproject_emurphy\managementsystem.h
+	"Ticket.h"
+	"Schedule.h"
+	"Parking.h"
+	"Concession.h"
+	"Staff.h"
+	<list>
+
+1543805556 c:\users\emurp010\desktop\semesterproject_emurphy\staff.h
+	<string>
+	<istream>
+	"Manageable.h"
+
+1543961385 source:c:\users\emurp010\desktop\semesterproject_emurphy\staff.cpp
+	"Staff.h"
+	<iostream>
+
+1543961473 source:c:\users\emurp010\desktop\semesterproject_emurphy\managementsystem.cpp
+	"ManagementSystem.h"
+	<fstream>
+	<iostream>
+
